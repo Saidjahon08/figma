@@ -1,0 +1,36 @@
+
+
+.list_item{
+    width: 412px;
+    height: auto;
+    border: 1px solid #D6BCFA;
+    border-radius: 10px;
+    margin-top: 22px;
+    transition: .5s;
+}
+.list_item:hover{
+    transform: scale(1.1);
+    cursor: pointer;
+    border: 1px solid rgba(0, 0, 255, 0.558);
+}
+.img1{
+    transform: translate(10px, 10px);
+}
+.h2{
+    font-size: 18px;
+    gap: 12px;
+    transform: translate(80px, -50px);
+}
+.login{
+    font-size: 16px;
+    gap: 12px;
+    transform: translate(80px, -45px);
+    color: #00000093;
+}
+.lorem{
+    font-size: 16px;
+    color: rgba(0, 0, 0, 0.807);
+    width: 370px;
+    height: 96px;
+    transform: translate(40px, -20px);
+}
